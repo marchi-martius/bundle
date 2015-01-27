@@ -43,3 +43,6 @@
 [submodule "vim-monokai"]
 	path = vim-monokai
 	url = git@github.com:sickill/vim-monokai.git
+[submodule "molokai"]
+	path = molokai
+	url = git@github.com:tomasr/molokai.git
