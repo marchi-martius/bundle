@@ -40,3 +40,6 @@
 [submodule "ack.vim"]
 	path = ack.vim
 	url = git@github.com:mileszs/ack.vim.git
+[submodule "vim-monokai"]
+	path = vim-monokai
+	url = git@github.com:sickill/vim-monokai.git
