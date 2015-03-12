@@ -4,9 +4,6 @@
 [submodule "emmet-vim"]
 	path = emmet-vim
 	url = git@github.com:mattn/emmet-vim.git
-[submodule "jshint.vim"]
-	path = jshint.vim
-	url = git@github.com:wookiehangover/jshint.vim.git
 [submodule "rust.vim"]
 	path = rust.vim
 	url = git@github.com:wting/rust.vim.git
