@@ -43,3 +43,6 @@
 [submodule "molokai"]
 	path = molokai
 	url = git@github.com:tomasr/molokai.git
+[submodule "Spacegray.vim"]
+	path = Spacegray.vim
+	url = git@github.com:ajh17/Spacegray.vim.git
