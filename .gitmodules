@@ -49,3 +49,6 @@
 [submodule "vim-ruby"]
 	path = vim-ruby
 	url = git@github.com:vim-ruby/vim-ruby.git
+[submodule "vim-commentary"]
+	path = vim-commentary
+	url = git://github.com/tpope/vim-commentary.git
