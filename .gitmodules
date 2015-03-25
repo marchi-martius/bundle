@@ -46,3 +46,6 @@
 [submodule "Spacegray.vim"]
 	path = Spacegray.vim
 	url = git@github.com:ajh17/Spacegray.vim.git
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby.git
