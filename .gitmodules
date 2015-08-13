@@ -58,3 +58,6 @@
 [submodule "vim-notes"]
 	path = vim-notes
 	url = git@github.com:xolox/vim-notes.git
+[submodule "vim-misc"]
+	path = vim-misc
+	url = git@github.com:xolox/vim-misc.git
