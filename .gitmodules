@@ -61,3 +61,6 @@
 [submodule "vim-misc"]
 	path = vim-misc
 	url = git@github.com:xolox/vim-misc.git
+[submodule "jellybeans.vim"]
+	path = jellybeans.vim
+	url = git@github.com:nanotech/jellybeans.vim.git
