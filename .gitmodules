@@ -64,3 +64,9 @@
 [submodule "jellybeans.vim"]
 	path = jellybeans.vim
 	url = git@github.com:nanotech/jellybeans.vim.git
+[submodule "lightline.vim"]
+	path = lightline.vim
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "Wombat"]
+	path = Wombat
+	url = git@github.com:vim-scripts/Wombat.git
